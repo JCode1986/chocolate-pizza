@@ -1,0 +1,36 @@
+/* header h2 {
+float:left
+}
+
+header h3 {
+    float:left
+} */
+
+.logo {
+float: left;
+}
+
+header  {
+    width: 480px;
+}
+
+header p {
+width: 480px;
+}
+
+/* .medium {
+float: right
+margin-bottom: 30px
+} */
+
+section {
+    float: right;
+    margin-bottom: 30px;
+    background-position-y: 20px;
+}
+
+.divider {
+    display: block;
+    height: 5px;
+    border: 5px solid #222;
+}
